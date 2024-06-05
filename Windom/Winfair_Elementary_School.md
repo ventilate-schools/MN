@@ -1,0 +1,34 @@
+---
+layout: page
+title: Winfair Elementary School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Minnesota Districts]](../..) > [[All In Windom]](..)
+
+# Winfair Elementary School (Windom)
+
+**Address**: 147 6th St, Windom, MN 56101
+
+**Phone**: 507-831-6925
+
+**Website**: <https://www.windom.k12.mn.us>
+
+**Students**: 400
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/MN/edit/main/./Windom/Winfair_Elementary_School.md). See also [rules for contribution](../../../contribution-rules/)

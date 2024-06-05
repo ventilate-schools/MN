@@ -7578,32 +7578,343 @@ schools = {
             "website": "https://www.westwcamn.org/",
             "students": 150
         }
+    ],
+    "West Central Education District": [
+        {
+            "school_name": "Albany Area Schools",
+            "address": "30 Forest Ave, Albany, MN 56307",
+            "phone": "320-845-2171",
+            "website": "https://www.wced6026.org",
+            "students": 79
+        },
+        {
+            "school_name": "Melrose Area Schools",
+            "address": "546 5th Ave NE, Melrose, MN 56352",
+            "phone": "320-256-5160",
+            "website": "https://www.wced6026.org",
+            "students": 79
+        },
+        {
+            "school_name": "Paynesville Area Schools",
+            "address": "795 Business 23 W, Paynesville, MN 56362",
+            "phone": "320-243-3410",
+            "website": "https://www.wced6026.org",
+            "students": 79
+        },
+        {
+            "school_name": "Sauk Centre Schools",
+            "address": "903 State Rd, Sauk Centre, MN 56378",
+            "phone": "320-352-2258",
+            "website": "https://www.wced6026.org",
+            "students": 79
+        }
+    ],
+    "West Side Summit Charter School": [
+        {
+            "school_name": "West Side Summit Charter School",
+            "address": "497 Humboldt Ave, Saint Paul, MN 55107",
+            "phone": "651-200-4543",
+            "website": "https://www.twinkl.com/school-directory/school-lookup/west-side-summit-charter-school-189450",
+            "students": 176
+        }
+    ],
+    "West St. Paul-Mendota Heights-Eagan School District": [
+        {
+            "school_name": "Mendota Elementary School",
+            "address": "1979 Summit Ln, Mendota Heights, MN 55118",
+            "phone": "651-403-8000",
+            "website": "https://www.isd197.org",
+            "students": 400
+        },
+        {
+            "school_name": "Moreland Arts & Health Sciences Magnet School",
+            "address": "217 Moreland Ave W, West St Paul, MN 55118",
+            "phone": "651-403-7800",
+            "website": "https://www.isd197.org",
+            "students": 500
+        },
+        {
+            "school_name": "Pilot Knob STEM Magnet School",
+            "address": "1436 Lone Oak Rd, Eagan, MN 55121",
+            "phone": "651-403-7900",
+            "website": "https://www.isd197.org",
+            "students": 450
+        },
+        {
+            "school_name": "Somerset Elementary School",
+            "address": "1355 Dodd Rd, Mendota Heights, MN 55118",
+            "phone": "651-403-8200",
+            "website": "https://www.isd197.org",
+            "students": 550
+        },
+        {
+            "school_name": "Friendly Hills Middle School",
+            "address": "701 Mendota Heights Rd, Mendota Heights, MN 55120",
+            "phone": "651-403-7600",
+            "website": "https://www.isd197.org",
+            "students": 600
+        },
+        {
+            "school_name": "Heritage E-STEM Magnet School",
+            "address": "121 Butler Ave W, West St Paul, MN 55118",
+            "phone": "651-403-7400",
+            "website": "https://www.isd197.org",
+            "students": 700
+        },
+        {
+            "school_name": "Two Rivers High School",
+            "address": "1897 Delaware Ave, Mendota Heights, MN 55118",
+            "phone": "651-403-7100",
+            "website": "https://www.isd197.org",
+            "students": 1200
+        }
+    ],
+    "Westbrook-Walnut Grove Schools": [
+        {
+            "school_name": "Westbrook-Walnut Grove Elementary",
+            "address": "601 Washington St, Westbrook, MN 56183",
+            "phone": "507-274-6111",
+            "website": "https://www.wwgschools.org",
+            "students": 200
+        },
+        {
+            "school_name": "Westbrook-Walnut Grove High School",
+            "address": "344 8th St, Walnut Grove, MN 56180",
+            "phone": "507-859-2141",
+            "website": "https://www.wwgschools.org",
+            "students": 300
+        }
+    ],
+    "Westonka Public School District": [
+        {
+            "school_name": "Hilltop Primary School",
+            "address": "5700 Game Farm Rd E, Minnetrista, MN 55364",
+            "phone": "952-491-8500",
+            "website": "https://www.westonka.k12.mn.us",
+            "students": 400
+        },
+        {
+            "school_name": "Shirley Hills Primary School",
+            "address": "2450 Wilshire Blvd, Mound, MN 55364",
+            "phone": "952-491-8400",
+            "website": "https://www.westonka.k12.mn.us",
+            "students": 350
+        },
+        {
+            "school_name": "Grandview Middle School",
+            "address": "1881 Commerce Blvd, Mound, MN 55364",
+            "phone": "952-491-8300",
+            "website": "https://www.westonka.k12.mn.us",
+            "students": 500
+        },
+        {
+            "school_name": "Mound Westonka High School",
+            "address": "5905 Sunnyfield Rd E, Minnetrista, MN 55364",
+            "phone": "952-491-8100",
+            "website": "https://www.westonka.k12.mn.us",
+            "students": 800
+        }
+    ],
+    "Wheaton Area Public School District": [
+        {
+            "school_name": "Wheaton Area Elementary School",
+            "address": "1700 3rd Ave S, Wheaton, MN 56296",
+            "phone": "320-563-8282",
+            "website": "https://www.wheaton.k12.mn.us",
+            "students": 150
+        },
+        {
+            "school_name": "Wheaton Area High School",
+            "address": "1700 3rd Ave S, Wheaton, MN 56296",
+            "phone": "320-563-8282",
+            "website": "https://www.wheaton.k12.mn.us",
+            "students": 200
+        }
+    ],
+    "White Bear Lake School District": [
+        {
+            "school_name": "White Bear Lake Area High School - North Campus",
+            "address": "5045 Division Ave, White Bear Lake, MN 55110",
+            "phone": "651-773-6200",
+            "website": "https://www.isd624.org",
+            "students": 1200
+        },
+        {
+            "school_name": "White Bear Lake Area High School - South Campus",
+            "address": "3551 McKnight Rd N, White Bear Lake, MN 55110",
+            "phone": "651-773-6200",
+            "website": "https://www.isd624.org",
+            "students": 1300
+        }
+    ],
+    "Willmar Public School District": [
+        {
+            "school_name": "Willmar Senior High School",
+            "address": "2701 30th St NE, Willmar, MN 56201",
+            "phone": "320-231-8300",
+            "website": "https://www.willmar.k12.mn.us",
+            "students": 1000
+        },
+        {
+            "school_name": "Willmar Middle School",
+            "address": "209 Willmar Ave SE, Willmar, MN 56201",
+            "phone": "320-231-8470",
+            "website": "https://www.willmar.k12.mn.us",
+            "students": 800
+        }
+    ],
+    "Willow River Public School District": [
+        {
+            "school_name": "Willow River Elementary School",
+            "address": "8142 Pine St, Willow River, MN 55795",
+            "phone": "218-372-3131",
+            "website": "https://www.willowriver.k12.mn.us",
+            "students": 150
+        },
+        {
+            "school_name": "Willow River High School",
+            "address": "8142 Pine St, Willow River, MN 55795",
+            "phone": "218-372-3131",
+            "website": "https://www.willowriver.k12.mn.us",
+            "students": 200
+        }
+    ],
+    "Win-E-Mac School District": [
+        {
+            "school_name": "Win-E-Mac School",
+            "address": "23130 345th St SE, Erskine, MN 56535",
+            "phone": "218-563-2900",
+            "website": "https://www.wemschools.org",
+            "students": 300
+        }
+    ],
+    "Windom Public School District": [
+        {
+            "school_name": "Winfair Elementary School",
+            "address": "147 6th St, Windom, MN 56101",
+            "phone": "507-831-6925",
+            "website": "https://www.windom.k12.mn.us",
+            "students": 400
+        },
+        {
+            "school_name": "Windom Area Middle/High School",
+            "address": "1400 17th St, Windom, MN 56101",
+            "phone": "507-831-6910",
+            "website": "https://www.windom.k12.mn.us",
+            "students": 600
+        }
+    ],
+    "Winona Area Public School District": [
+        {
+            "school_name": "Winona Senior High School",
+            "address": "901 Gilmore Ave, Winona, MN 55987",
+            "phone": "507-494-1504",
+            "website": "https://www.winonaschools.org",
+            "students": 900
+        },
+        {
+            "school_name": "Winona Middle School",
+            "address": "1570 Homer Rd, Winona, MN 55987",
+            "phone": "507-494-1050",
+            "website": "https://www.winonaschools.org",
+            "students": 700
+        }
+    ],
+    "Woodbury Leadership Academy": [
+        {
+            "school_name": "Woodbury Leadership Academy",
+            "address": "8089 Globe Dr, Woodbury, MN 55125",
+            "phone": "651-571-2100",
+            "website": "https://www.wlamn.org",
+            "students": 300
+        }
+    ],
+    "World Learner Charter School": [
+        {
+            "school_name": "World Learner School",
+            "address": "112050 Hundertmark Rd, Chaska, MN 55318",
+            "phone": "952-368-7398",
+            "website": "https://www.wlschaska.org",
+            "students": 200
+        }
+    ],
+    "Worthington Public School District": [
+        {
+            "school_name": "Worthington High School",
+            "address": "1211 Clary St, Worthington, MN 56187",
+            "phone": "507-376-6121",
+            "website": "https://www.isd518.net",
+            "students": 800
+        },
+        {
+            "school_name": "Worthington Middle School",
+            "address": "1401 Crailsheim Rd, Worthington, MN 56187",
+            "phone": "507-376-4174",
+            "website": "https://www.isd518.net",
+            "students": 600
+        }
+    ],
+    "Wrenshall Public School District": [
+        {
+            "school_name": "Wrenshall School",
+            "address": "207 Pioneer Dr, Wrenshall, MN 55797",
+            "phone": "218-384-4274",
+            "website": "https://www.wrenshall.k12.mn.us",
+            "students": 300
+        }
+    ],
+    "Wright Technical Center": [
+        {
+            "school_name": "Wright Technical Center",
+            "address": "1405 3rd Ave NE, Buffalo, MN 55313",
+            "phone": "763-682-4112",
+            "website": "https://www.wtc.k12.mn.us",
+            "students": 150
+        }
+    ],
+    "Yellow Medicine East School District": [
+        {
+            "school_name": "Yellow Medicine East High School",
+            "address": "450 9th Ave, Granite Falls, MN 56241",
+            "phone": "320-564-4081",
+            "website": "https://www.isd2190.org",
+            "students": 400
+        }
+    ],
+    "Yinghua Academy": [
+        {
+            "school_name": "Yinghua Academy",
+            "address": "1616 Buchanan St NE, Minneapolis, MN 55413",
+            "phone": "612-788-9095",
+            "website": "https://www.yinghuaacademy.org",
+            "students": 800
+        }
+    ],
+    "Zumbro Education District": [
+        {
+            "school_name": "Zumbro Education District",
+            "address": "801 Frontage Rd NW, Byron, MN 55920",
+            "phone": "507-775-2037",
+            "website": "https://www.zumbroed.org",
+            "students": 100
+        }
+    ],
+    "Zumbrota-Mazeppa School District": [
+        {
+            "school_name": "Zumbrota-Mazeppa High School",
+            "address": "705 Mill St, Zumbrota, MN 55992",
+            "phone": "507-732-7395",
+            "website": "https://www.zmschools.us",
+            "students": 400
+        },
+        {
+            "school_name": "Zumbrota-Mazeppa Middle School",
+            "address": "343 3rd Ave NE, Mazeppa, MN 55956",
+            "phone": "507-732-7395",
+            "website": "https://www.zmschools.us",
+            "students": 300
+        }
     ]
-
-# Yet to do:
-# West Central Education District	,
-    # West Side Summit Charter School	,
-    # West St. Paul-Mendota Hts.-Eagan School District	,
-    # Westbrook-Walnut Grove Schools	,
-    # Westonka Public School District	,
-    # Wheaton Area Public School District	,
-    # White Bear Lake School District	,
-    # Willmar Public School District	,
-    # Willow River Public School District	,
-    # Win-E-Mac School District	,
-    # Windom Public School District	,
-    # Winona Area Public School District	,
-    # Woodbury Leadership Academy	,
-    # World Learner Charter School	,
-    # Worthington Public School District	,
-    # Wrenshall Public School District	,
-    # Wright Technical Center	,
-    # Yellow Medicine East School District	,
-    # Yinghua Academy	,
-    # Zumbro Education District	,
-    # Zumbrota-Mazeppa School District	,
-
-
 }
 
 # Combine all school lists into one DataFrame

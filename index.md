@@ -564,6 +564,27 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 - [Waubun-Ogema-White Earth](Waubun-Ogema-White_Earth/): 2 schools
 - [Wayzata](Wayzata/): 3 schools
 - [West Central Area School](West_Central_Area_School/): 2 schools
+- [West Central Education](West_Central_Education/): 4 schools
+- [West Side Summit Charter School](West_Side_Summit_Charter_School/): 1 schools
+- [West St. Paul-Mendota Heights-Eagan School](West_St._Paul-Mendota_Heights-Eagan_School/): 7 schools
+- [Westbrook-Walnut Grove Schools](Westbrook-Walnut_Grove_Schools/): 2 schools
+- [Westonka](Westonka/): 4 schools
+- [Wheaton Area](Wheaton_Area/): 2 schools
+- [White Bear Lake School](White_Bear_Lake_School/): 2 schools
+- [Willmar](Willmar/): 2 schools
+- [Willow River](Willow_River/): 2 schools
+- [Win-E-Mac School](Win-E-Mac_School/): 1 schools
+- [Windom](Windom/): 2 schools
+- [Winona Area](Winona_Area/): 2 schools
+- [Woodbury Leadership Academy](Woodbury_Leadership_Academy/): 1 schools
+- [World Learner Charter School](World_Learner_Charter_School/): 1 schools
+- [Worthington](Worthington/): 2 schools
+- [Wrenshall](Wrenshall/): 1 schools
+- [Wright Technical Center](Wright_Technical_Center/): 1 schools
+- [Yellow Medicine East School](Yellow_Medicine_East_School/): 1 schools
+- [Yinghua Academy](Yinghua_Academy/): 1 schools
+- [Zumbro Education](Zumbro_Education/): 1 schools
+- [Zumbrota-Mazeppa School](Zumbrota-Mazeppa_School/): 2 schools
 
 
 # Site ownership
