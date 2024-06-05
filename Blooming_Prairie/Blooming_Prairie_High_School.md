@@ -1,0 +1,34 @@
+---
+layout: page
+title: Blooming Prairie High School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Minnesota Districts]](../..) > [[All In Blooming Prairie]](..)
+
+# Blooming Prairie High School (Blooming Prairie)
+
+**Address**: 202 4th Ave NW, Blooming Prairie, MN 55917
+
+**Phone**: 507-583-4426
+
+**Website**: <https://www.bpschools.org>
+
+**Students**: 400
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/MN/edit/main/./Blooming_Prairie/Blooming_Prairie_High_School.md). See also [rules for contribution](../../../contribution-rules/)

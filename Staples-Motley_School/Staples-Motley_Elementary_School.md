@@ -1,0 +1,34 @@
+---
+layout: page
+title: Staples-Motley Elementary School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Minnesota Districts]](../..) > [[All In Staples-Motley School]](..)
+
+# Staples-Motley Elementary School (Staples-Motley School)
+
+**Address**: 805 3rd St NE, Staples, MN 56479
+
+**Phone**: (218) 894-5400
+
+**Website**: <https://www.isd2170.k12.mn.us/>
+
+**Students**: 500
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/MN/edit/main/./Staples-Motley_School/Staples-Motley_Elementary_School.md). See also [rules for contribution](../../../contribution-rules/)

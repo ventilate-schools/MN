@@ -1,0 +1,34 @@
+---
+layout: page
+title: Lynd Public School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Minnesota Districts]](../..) > [[All In Lynd]](..)
+
+# Lynd Public School (Lynd)
+
+**Address**: 175 Maple St, Lynd, MN 56157
+
+**Phone**: 507-865-4404
+
+**Website**: <https://www.lyndschool.org>
+
+**Students**: 100
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/MN/edit/main/./Lynd/Lynd_Public_School.md). See also [rules for contribution](../../../contribution-rules/)

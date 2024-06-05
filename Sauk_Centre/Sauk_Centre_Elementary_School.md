@@ -1,0 +1,34 @@
+---
+layout: page
+title: Sauk Centre Elementary School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Minnesota Districts]](../..) > [[All In Sauk Centre]](..)
+
+# Sauk Centre Elementary School (Sauk Centre)
+
+**Address**: 900 9th St N, Sauk Centre, MN 56378
+
+**Phone**: (320) 352-2258
+
+**Website**: <https://www.saukcentre.k12.mn.us/>
+
+**Students**: 400
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/MN/edit/main/./Sauk_Centre/Sauk_Centre_Elementary_School.md). See also [rules for contribution](../../../contribution-rules/)
